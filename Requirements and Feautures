@@ -1,0 +1,19 @@
+Features
+
+- Add your projects/portfolio in the sidebar.
+- Generate multiple cold emails for a given job description.
+- Light/Dark theme toggle.
+- Adjustable number of emails and top portfolio items.
+- Download generated emails as **PDF** or **TXT**.
+- Tabs UI to view multiple generated emails easily.
+- Compact, easy-to-read code structure.
+
+Requirements
+
+Streamlit
+langchain
+grok
+fpdf
+io
+Openai embeddings
+Chromadb
